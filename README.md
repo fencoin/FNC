@@ -1,0 +1,2 @@
+# FNC
+fencoin
